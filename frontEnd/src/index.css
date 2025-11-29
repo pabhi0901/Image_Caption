@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.contentParent::-webkit-scrollbar {
+  display: none; /* Chrome, Safari */
+}
